@@ -8,6 +8,7 @@ func TestSum(t *testing.T) {
 	if result != 20 {
 		t.Error("The result must be 20")
 	}
+
 }
 
 func TestSub(t *testing.T) {
